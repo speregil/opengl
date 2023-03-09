@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Usuario/Desktop/glfw-3.3.8/tests/CMakeLists.txt
+  events.c
+  getopt.c
+  glad_gl.c
+  Generando código...
+  events.vcxproj -> C:\Users\Usuario\Desktop\glfw-3.3.8\build\tests\Debug\events.exe
