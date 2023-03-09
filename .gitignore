@@ -24,9 +24,12 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+*.vsidx
+*.vsidx
+firstWindow/.vs/firstWindow/v17/.suo
+*.db
